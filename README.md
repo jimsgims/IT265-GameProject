@@ -20,4 +20,4 @@ Mouse1 - selection tool
 
 ## WIN/LOSS CONDITIONS
 
-A player wins by reaching the end goal flag. A player loses when they collide with an enemy, which puts them back at the start of the level.
+<<<<<<< HEAD
